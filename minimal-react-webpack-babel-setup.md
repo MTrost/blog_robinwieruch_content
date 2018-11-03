@@ -222,7 +222,7 @@ You are serving your app via Webpack now. You bundle your entry point file *src/
 
 {{% chapter_header "Babel Setup" "babel-react-setup" %}}
 
-{{% a_blank "Babel" "https://babeljs.io/" %}} enables you writing your code in with JavaScript which isn't supported yet in most browser. Perhaphs you have heard about {{% a_blank "JavaScript ES6 (ES2015)" "https://babeljs.io/docs/learn-es2015/" %}} and beyond. With Babel the code will get transpiled back to vanilla JavaScript so that every browser, without having all JavaScript ES6 and beyond features implemented, can interpret it. In order to get Babel working, you need to install two of its main dependencies.
+{{% a_blank "Babel" "https://babeljs.io/" %}} enables you writing your with JavaScript which isn't supported yet in most browsers. Perhaps you have heard about {{% a_blank "JavaScript ES6 (ES2015)" "https://babeljs.io/docs/learn-es2015/" %}} and beyond. With Babel the code will get transpiled back to vanilla JavaScript so that every browser, without having all JavaScript ES6 and beyond features implemented, can interpret it. In order to get Babel working, you need to install two of its main dependencies.
 
 *From root folder:*
 
@@ -314,7 +314,7 @@ Now you can add the configuration for Babel, which you have previously added in 
 }
 {{< /highlight >}}
 
-Babel enables you to use future JavaScript in your browser, because it transpiles it down to vanilla JavaScript. Now you are set up to build your first React component now.
+Babel enables you to use future JavaScript in your browser, because it transpiles it down to vanilla JavaScript. Now you are set up to build your first React component.
 
 {{% chapter_header "React Setup in a Webpack + Babel Project" "react-setup" %}}
 
